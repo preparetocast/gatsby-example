@@ -22,6 +22,8 @@ export default function Template({
   )
 }
 
+// https://www.gatsbyjs.org/blog/2017-07-19-creating-a-blog-with-gatsby/#writing-the-graphql-query
+
 export const pageQuery = graphql`
   query($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
