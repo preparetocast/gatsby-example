@@ -64,5 +64,7 @@ Dragons are a thornier question. Dragons are known in some places and not in oth
 
 But what about those who don't specifically train in Knowledge (arcana)? If they come from a tribe terrorized by a white dragon, obviously they know a lot, but what if they don't? Do they know general rules like "shiny scales mean good dragons"? It depends on their particular upbringing. Oakhurst locals probably don't know, since there haven't been dragons in this area for a long time.
 
+According to https://www.gatsbyjs.org/docs/working-with-images-in-markdown/, we should be able to include images here:
+
 ![Color-Coded for Your Convenience](./oots0207.gif)
 
